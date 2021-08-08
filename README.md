@@ -1,2 +1,8 @@
-# Loading-Blurry-Effect-
-This is a simple loading an image with blur effect by using HTML, CSS, JavaScript
+# Loading Blur Effect
+
+### **Visit Project :**
+
+
+#### **Snapshot Of Project**
+
+![Screenshot](./Snapshots/Yoo.png)
