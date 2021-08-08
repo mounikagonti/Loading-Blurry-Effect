@@ -5,4 +5,4 @@
 
 #### **Snapshot Of Project**
 
-![Screenshot](./Snapshots/Yoo.png)
+![Screenshot](Yoo.png)
